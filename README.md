@@ -16,5 +16,5 @@ This repository contains the source code for a fully functional and responsive r
 
 ## Usage
 1. Clone the repository:
-   git clone 
+   git clone https://github.com/AakashThapliyal/registrationpage.git
 
